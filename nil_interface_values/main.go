@@ -13,5 +13,5 @@ func describe(i I) {
 func main() {
 	var i I
 	describe(i)
-	i.M()
+	// i.M()
 }
